@@ -1,12 +1,14 @@
-<p align="center">
-  <img src="/vue.png" height="400">
+<div align="center">
+  <img src="./images/logo.svg" alt="Vue.js" title="Vue.js logo" height="400">
   <h1 align="center">
     Vue Component Patterns
     <br>
-    <a href="https://github.com/VitorLuizC/vue-component-patterns/blob/master/LICENSE" ><img alt="license" src="https://img.shields.io/github/license/mashape/apistatus.svg" /></a>
+    <a href="https://github.com/VitorLuizC/vue-component-patterns/blob/master/LICENSE">
+      <img alt="License" src="https://img.shields.io/github/license/VitorLuizC/vue-component-patterns.svg" title="License badge">
+    </a>
   </h1>
   A curated collection of idiomatic component patterns for Vue.
-</p>
+</div>
 
 ## Components Patterns
 
