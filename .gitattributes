@@ -1,0 +1,2 @@
+# Automatically handle files as text and ensure Unix line-endings.
+* text=auto eol=lf

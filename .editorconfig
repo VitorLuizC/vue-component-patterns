@@ -1,0 +1,16 @@
+# Settings for editors and IDEs, see https://editorconfig.org/.
+
+root = true
+
+# Settings for all the files.
+[*]
+charset = utf-8
+end_of_line = lf
+indent_size = 2
+indent_style = space
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Settings for Markdown files.
+[*.md]
+trim_trailing_whitespace = false
